@@ -9,9 +9,12 @@ Diagramas de Clases de Uso
 
 Diagramas de Secuencia
 - Inicio de sesión
-- Asignación de entrega a vehículo
-- Proceso de registro de egreso por combustible o tipo
-- Creación de rutas y cálculo de distancia
+- Consulta de estado financiero
 - Consulta de historial de mantenimientos
-- Gestión financiera (ingresos y egresos)
+- Creación de rutas y cálculo de distancia
 - Diagrama de km de piloto y estado de pedido
+- Emision de venta y asignacion de vehiculo
+- Proceso de registro de egreso por tipo
+- Registro y Actualización de Ingresos por Entrega
+- Muestra de datos financieros
+
